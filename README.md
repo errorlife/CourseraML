@@ -8,6 +8,7 @@ Coursera上Andrew Ng机器学习教程笔记
 
 笔记列表
 - Week 1 [Machine Learning Introduction](note/week1/Machine-Learning-Introduction/README.md)
+- Week 1 [Supervised Learning](note/week1/Supervised-Learning/README.md)
 
 > 如果觉得我的文章对您有帮助，请随意打赏～
 
