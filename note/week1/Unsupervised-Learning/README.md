@@ -6,7 +6,7 @@ We can derive this structure by clustering the data based on relationships among
 
 ### With unsupervised learning there is no feedback based on the prediction results.
 
-**Example **:
+**Example**:
 
 - Clustering: Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
 
